@@ -33,3 +33,6 @@ override.tf.json
 # Ignore CLI configuration files
 .terraformrc
 terraform.rc
+dev/.terraform.lock.hcl
+dev/darwin_arm64/terraform-provider-aws_v5.40.0_x5
+staging/.terraform.lock.hcl
